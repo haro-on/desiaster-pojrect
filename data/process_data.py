@@ -2,7 +2,7 @@ import sys
 
 
 def load_data(messages_filepath, categories_filepath):
-    pass
+    print("project")
 
 
 def clean_data(df):
